@@ -9,6 +9,8 @@
 * Android or IOS
 
 ## Links
+* https://github.com/Atlas548/Daily-Planner.git (GitHub Link)
+* https://atlas548.github.io/Daily-Planner/ (Webpage Link)
 
 ## Demo
 ![Daily-Planner](Assets/05-third-party-apis-homework-demo.gif)
