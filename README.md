@@ -16,6 +16,6 @@
 ![Daily-Planner](Assets/05-third-party-apis-homework-demo.gif)
 
 ## Author
-Tyler N. Oates
-Email: oatesrotc548@gmail.com
-Cell-Phone: 442-230-6358
+* Tyler N. Oates
+* Email: oatesrotc548@gmail.com
+* Cell-Phone: 442-230-6358
